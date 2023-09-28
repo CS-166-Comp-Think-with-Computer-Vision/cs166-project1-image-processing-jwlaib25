@@ -5,5 +5,3 @@ Repository for CS166 project 1 on basic image processing.
 
 Student Name: Jack Laibe
 
-
-
